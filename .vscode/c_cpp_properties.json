@@ -1,0 +1,55 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/aswz/uav/My_uav/devel/include/**",
+        "/home/aswz/uav/Sunray/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/fuel_planner/active_perception/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/fuel_planner/bspline/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/fuel_planner/bspline_opt/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/fuel_planner/exploration_manager/include/**",
+        "/home/aswz/uav/Sunray/Simulation/gazebo_plugin/livox_laser_simulation/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/fuel_planner/utils/lkh_tsp_solver/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/uav_simulator/local_sensing/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/uav_simulator/Utils/multi_map_server/include/**",
+        "/home/aswz/uav/Sunray/Simulation/simulator_utils/Utils/odometry_visualization/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/fuel_planner/path_searching/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/fuel_planner/plan_env/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/fuel_planner/plan_manage/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/fuel_planner/poly_traj/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/uav_simulator/Utils/pose_utils/include/**",
+        "/home/aswz/uav/Sunray/Simulation/simulator_utils/quadrotor_control/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/uav_simulator/Utils/quadrotor_msgs/include/**",
+        "/home/aswz/uav/Sunray/Simulation/simulator_utils/quadrotor_simulator/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/uav_simulator/so3_control/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/uav_simulator/so3_disturbance_generator/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/aswz/uav/Sunray/Comunication_Module/sunray_communication_bridge/include/**",
+        "/home/aswz/uav/Sunray/sunray_formation/formation_control/include/**",
+        "/home/aswz/uav/Sunray/Simulation/simulator_utils/map_generator/include/**",
+        "/home/aswz/uav/Sunray/General_Module/sunray_media/include/**",
+        "/home/aswz/uav/Sunray/sunray_formation/sunray_orca/include/**",
+        "/home/aswz/uav/Sunray/General_Module/sunray_planner_utils/include/**",
+        "/home/aswz/uav/Sunray/Simulation/sunray_simulator/include/**",
+        "/home/aswz/uav/Sunray/General_Module/sunray_tutorial/include/**",
+        "/home/aswz/uav/Sunray/General_Module/sunray_uav_control/include/**",
+        "/home/aswz/uav/My_uav/src/pid_ctrl/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/fuel_planner/traj_utils/include/**",
+        "/home/aswz/uav/Sunray/External_Module/FUEL/uav_simulator/Utils/uav_utils/include/**",
+        "/home/aswz/uav/Sunray/External_Module/vrpn_client_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
